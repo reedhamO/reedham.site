@@ -13,17 +13,17 @@ const main_menu =
 const about_me = "[[;skyblue;]Myself Reedham, I am an engineering unndergrad and tech enthusiast. I love technology in general but have a soft corner for Data Science and Machine Learing.]\n"
 
 const education = 
-"[[gb;skyblue;]|] [[gb;coral;]Rajiv Gandhi Institute of Petroleum Technology]    [[;skyblue;]- B.Tech in Electrical Engineering (Major: EV)]\n" +
+"[[gb;skyblue;]|] [[b;coral;]Rajiv Gandhi Institute of Petroleum Technology]    [[;skyblue;]- B.Tech in Electrical Engineering (Major: EV)]\n" +
 "                         [[i;;]~ Amethi, Uttar Pradesh\n]" +
-"[[gb;skyblue;]|] [[gb;coral;]DAV Parwanoo, Solan, Himachal Pradesh]             [[;skyblue;]- 12th - 89%]\n" +
-"[[gb;skyblue;]|] [[gb;coral;]DAV Parwanoo, Solan, Himachal Pradesh]             [[;skyblue;]- 10th - 79%]\n";
+"[[gb;skyblue;]|] [[b;coral;]DAV Parwanoo, Solan, Himachal Pradesh]             [[;skyblue;]- 12th - 89%]\n" +
+"[[gb;skyblue;]|] [[b;coral;]DAV Parwanoo, Solan, Himachal Pradesh]             [[;skyblue;]- 10th - 79%]\n";
 
 
 const resume = "[[;;]https://drive.google.com/file/d/1EPHt25Yl67ZNzPbW7zA6hK3kfoIvasAl/view?usp=sharing]";
 
 const projects =
 "\n" +
-"[[g;coral;]WiFi-Based Joint Activity and Location Estimation Using Deep Learning       (May, 2023 - Ongoing)\n]" +
+"[[b;coral;]WiFi-Based Joint Activity and Location Estimation Using Deep Learning       (May, 2023 - Ongoing)\n]" +
 "[[;skyblue;]   - Developing a system that can accurately recognize human activities based on Wi-Fi signal data (CSI).]\n" +
 "[[;skyblue;]   - Developed and implemented a Convolutional Neural Network (CNN) model on Jordanian Dataset.]\n" +
 "[[;skyblue;]   - Collected CSI Data using ESP32 Microcontroller and processed using several Python libraries.]\n" +
@@ -32,7 +32,7 @@ const projects =
 
 const exp = 
 "\n" +
-"[[g;coral;]TATA 1mg - Web Analyst Intern (Dec, 2023 - Mar, 2024)] - [[i;;]https://t.ly/intern_certificate_reedham]\n" +
+"[[b;coral;]TATA 1mg - Web Analyst Intern (Dec, 2023 - Mar, 2024)] - [[i;;]https://t.ly/intern_certificate_reedham]\n" +
 "[[;skyblue;]   - Analyzed competitor’s data using Python and Tableau.]\n" +
 "[[;skyblue;]   - Worked with big datasets and made them ready for visualizing using Pandas and NumPy.]\n" +
 "[[;skyblue;]   - Created Tableau Dashboards for proper visualization.]\n";
@@ -40,22 +40,22 @@ const exp =
 
 const skills = 
 "\n" + 
-"[[gb;skyblue;]|] [[gb;coral;]Python]              [[;skyblue;]- Intermediate]\n" +
-"[[gb;skyblue;]|] [[gb;coral;]Web Scraping]        [[;skyblue;]- Intermediate]\n" +
-"[[gb;skyblue;]|] [[gb;coral;]Tensorflow]          [[;skyblue;]- Beginner]\n" +
-"[[gb;skyblue;]|] [[gb;coral;]Pandas]              [[;skyblue;]- Intermediate]\n" +
-"[[gb;skyblue;]|] [[gb;coral;]NumPy]               [[;skyblue;]- Intermediate]\n" +
-"[[gb;skyblue;]|] [[gb;coral;]C++]                 [[;skyblue;]- Beginner]\n" +
-"[[gb;skyblue;]|] [[gb;coral;]Flutter]             [[;skyblue;]- Beginner]\n" +
-"[[gb;skyblue;]|] [[gb;coral;]Unity]               [[;skyblue;]- Beginner]\n" +
-"[[gb;skyblue;]|] [[gb;coral;]HTML CSS]            [[;skyblue;]- Intermediate]\n" +
-"[[gb;skyblue;]|] [[gb;coral;]Javascript]          [[;skyblue;]- Beginner]\n" +
-"[[gb;skyblue;]|] [[gb;coral;]Django]              [[;skyblue;]- Beginner]\n";
+"[[gb;skyblue;]|] [[b;coral;]Python]              [[;skyblue;]- Intermediate]\n" +
+"[[gb;skyblue;]|] [[b;coral;]Web Scraping]        [[;skyblue;]- Intermediate]\n" +
+"[[gb;skyblue;]|] [[b;coral;]Tensorflow]          [[;skyblue;]- Beginner]\n" +
+"[[gb;skyblue;]|] [[b;coral;]Pandas]              [[;skyblue;]- Intermediate]\n" +
+"[[gb;skyblue;]|] [[b;coral;]NumPy]               [[;skyblue;]- Intermediate]\n" +
+"[[gb;skyblue;]|] [[b;coral;]C++]                 [[;skyblue;]- Beginner]\n" +
+"[[gb;skyblue;]|] [[b;coral;]Flutter]             [[;skyblue;]- Beginner]\n" +
+"[[gb;skyblue;]|] [[b;coral;]Unity]               [[;skyblue;]- Beginner]\n" +
+"[[gb;skyblue;]|] [[b;coral;]HTML CSS]            [[;skyblue;]- Intermediate]\n" +
+"[[gb;skyblue;]|] [[b;coral;]Javascript]          [[;skyblue;]- Beginner]\n" +
+"[[gb;skyblue;]|] [[b;coral;]Django]              [[;skyblue;]- Beginner]\n";
 
 const credits = 
 "\n" + 
-"[[gb;skyblue;]|] [[;skyblue;]Site built by] [[g;coral;]Reedham]\n" +
-"[[gb;skyblue;]|] [[;skyblue;]Using] [[g;coral;]Jquery Terminal Emulator] [[;skyblue;]by] [[g;coral;]Jakub Jankiewicz]: http://terminal.jcubic.pl\n";
+"[[gb;skyblue;]|] [[;skyblue;]Site built by] [[b;coral;]Reedham]\n" +
+"[[gb;skyblue;]|] [[;skyblue;]Using] [[b;coral;]Jquery Terminal Emulator] [[;skyblue;]by] [[b;coral;]Jakub Jankiewicz]: http://terminal.jcubic.pl\n";
 
 const socials = 
 "\n" + 
