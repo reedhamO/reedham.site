@@ -97,7 +97,7 @@ $("body").terminal(
     },
 
     resume: function () {
-      window.location.href = "https://drive.google.com/file/d/1EPHt25Yl67ZNzPbW7zA6hK3kfoIvasAl/view?usp=sharing";
+      window.location.href = "./Reedham_resume.pdf";
       window.scrollTo(0, document.body.scrollHeight);
     },
 
