@@ -32,7 +32,7 @@ const projects =
 
 const exp = 
 "\n" +
-"[[g;coral;]TATA 1mg - Web Analyst Intern (Dec, 2023 - Mar, 2024)] - [[!i;;]https://t.ly/intern_certificate_reedham] \n" +
+"[[g;coral;]TATA 1mg - Web Analyst Intern (Dec, 2023 - Mar, 2024)] - [[i;;]https://t.ly/intern_certificate_reedham]\n" +
 "[[;skyblue;]   - Analyzed competitor’s data using Python and Tableau.]\n" +
 "[[;skyblue;]   - Worked with big datasets and made them ready for visualizing using Pandas and NumPy.]\n" +
 "[[;skyblue;]   - Created Tableau Dashboards for proper visualization.]\n";
