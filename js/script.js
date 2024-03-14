@@ -59,10 +59,10 @@ const credits =
 
 const socials = 
 "\n" + 
-"[[gb;skyblue;]|] [[gb;coral;]LinkedIn]            [[;skyblue;]- https://www.linkedin.com/in/reedham-sh/]\n" +
-"[[gb;skyblue;]|] [[gb;coral;]Instagram]           [[;skyblue;]- https://www.instagram.com/realreedham/]\n" +
-"[[gb;skyblue;]|] [[gb;coral;]E-Mail]              [[;skyblue;]- reedham.sh@gmail.com]\n" +
-"[[gb;skyblue;]|] [[gb;coral;]Github]              [[;skyblue;]- https://github.com/reedhamO]\n";
+"[[gb;skyblue;]|] [[b;coral;]LinkedIn]            [[;skyblue;]- https://www.linkedin.com/in/reedham-sh/]\n" +
+"[[gb;skyblue;]|] [[b;coral;]Instagram]           [[;skyblue;]- https://www.instagram.com/realreedham/]\n" +
+"[[gb;skyblue;]|] [[b;coral;]E-Mail]              [[;skyblue;]- reedham.sh@gmail.com]\n" +
+"[[gb;skyblue;]|] [[b;coral;]Github]              [[;skyblue;]- https://github.com/reedhamO]\n";
 
 $("body").terminal(
   {
