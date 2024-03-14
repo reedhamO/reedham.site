@@ -7,7 +7,7 @@ const main_menu =
 "[[gb;skyblue;]|] [[b;coral;]projects]            [[;skyblue;]- All my projects]\n" +
 "[[gb;skyblue;]|] [[b;coral;]skills]              [[;skyblue;]- Technical Proficiencies]\n" +
 "[[gb;skyblue;]|] [[b;coral;]credits]             [[;skyblue;]- How I made this website]\n" +
-"[[gb;skyblue;]|] [[b;coral;]contact]             [[;skyblue;]- You can connect with me here]\n";
+"[[gb;skyblue;]|] [[b;coral;]socials]             [[;skyblue;]- You can connect with me here]\n";
 
 
 const about_me = "[[;skyblue;]Myself Reedham, I am an engineering unndergrad and tech enthusiast. I love technology in general but have a soft corner for Data Science and Machine Learing.]\n"
@@ -59,10 +59,10 @@ const credits =
 
 const socials = 
 "\n" + 
-"[[gb;skyblue;]|] [[b;coral;]LinkedIn]            [[;skyblue;]- https://www.linkedin.com/in/reedham-sh/]\n" +
-"[[gb;skyblue;]|] [[b;coral;]Instagram]           [[;skyblue;]- https://www.instagram.com/realreedham/]\n" +
-"[[gb;skyblue;]|] [[b;coral;]E-Mail]              [[;skyblue;]- reedham.sh@gmail.com]\n" +
-"[[gb;skyblue;]|] [[b;coral;]Github]              [[;skyblue;]- https://github.com/reedhamO]\n";
+"[[gb;skyblue;]|] [[b;coral;]LinkedIn]            [[i;skyblue;]- https://www.linkedin.com/in/reedham-sh/]\n" +
+"[[gb;skyblue;]|] [[b;coral;]E-Mail]              [[i;skyblue;]- reedham.sh@gmail.com]\n" +
+"[[gb;skyblue;]|] [[b;coral;]Github]              [[i;skyblue;]- https://github.com/reedhamO]\n" +
+"[[gb;skyblue;]|] [[b;coral;]Instagram]           [[i;skyblue;]- https://www.instagram.com/realreedham/]\n";
 
 $("body").terminal(
   {
@@ -116,7 +116,7 @@ $("body").terminal(
       window.scrollTo(0, document.body.scrollHeight);
     },
 
-    contact: function () {
+    socials: function () {
       this.echo(socials);
       window.scrollTo(0, document.body.scrollHeight);
     },
