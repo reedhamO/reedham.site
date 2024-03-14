@@ -1,7 +1,7 @@
 const main_menu = 
 "\n" +
 "[[gb;skyblue;]|] [[b;coral;]about]               [[;skyblue;]- About me]\n" +
-"[[gb;skyblue;]|] [[b;coral;]education]           [[;skyblue;]- My education backgroud]\n" +
+"[[gb;skyblue;]|] [[b;coral;]education]           [[;skyblue;]- My education background]\n" +
 "[[gb;skyblue;]|] [[b;coral;]resume]              [[;skyblue;]- My Resumé]\n" +
 "[[gb;skyblue;]|] [[b;coral;]experience]          [[;skyblue;]- Professional Work Experience]\n" +
 "[[gb;skyblue;]|] [[b;coral;]projects]            [[;skyblue;]- All my projects]\n" +
