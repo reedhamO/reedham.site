@@ -19,7 +19,7 @@ const education =
 "[[gb;skyblue;]|] [[b;coral;]DAV Parwanoo, Solan, Himachal Pradesh]             [[;skyblue;]- 10th - 79%]\n";
 
 
-const resume = "[[;;]https://drive.google.com/file/d/1EPHt25Yl67ZNzPbW7zA6hK3kfoIvasAl/view?usp=sharing]";
+// const resume = "[[;;]https://drive.google.com/file/d/1EPHt25Yl67ZNzPbW7zA6hK3kfoIvasAl/view?usp=sharing]";
 
 const projects =
 "\n" +
