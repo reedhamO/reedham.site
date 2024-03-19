@@ -10,7 +10,8 @@ const main_menu =
 "[[gb;skyblue;]|] [[b;coral;]socials]             [[;skyblue;]- You can connect with me here]\n";
 
 
-const about_me = "[[;skyblue;]Myself Reedham, I am an engineering unndergrad and tech enthusiast. I love technology in general but have a soft corner for Data Science and Machine Learing.]\n"
+const about_me = "[[;skyblue;]Hey, Reedham here.]\n" +
+"[[;skyblue;]whoami? Just a guy in love with computers.]";
 
 const education = 
 "[[gb;skyblue;]|] [[b;coral;]Rajiv Gandhi Institute of Petroleum Technology]    [[;skyblue;]- B.Tech in Electrical Engineering (Major: EV)]\n" +
